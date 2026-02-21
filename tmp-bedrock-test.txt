@@ -1,0 +1,2 @@
+bedrock local test
+ becdrock deploy
